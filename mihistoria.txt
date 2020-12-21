@@ -3,3 +3,5 @@ hola esta es mi historia
 Naci en El Salvador
 
 Pero me mude a Ibi Alicante
+
+Hoy estoy cursando el curso de git
