@@ -1,2 +1,6 @@
-# kevin-hiperblog
-Este es el blog para el curso de git y github y esta genial
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
+```
