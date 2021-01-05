@@ -10,6 +10,7 @@
     * Creacion de ramas y fusion de las mismas.
     * Manejo de la plataforma Github, muy utilizada por todo el mundo, se puede decir que es la red social para los development.
     * etc.
+    * creado por el equipo teens.
 
 + Desarrollo:
 
