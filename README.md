@@ -13,6 +13,7 @@
     * creado por el equipo teens.
     * Creamos proyectos muy interesantes
     * tambien aprendes a trabajar en equipo
+    * disponible para todos
 
 + Desarrollo:
 
