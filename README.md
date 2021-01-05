@@ -11,6 +11,8 @@
     * Manejo de la plataforma Github, muy utilizada por todo el mundo, se puede decir que es la red social para los development.
     * etc.
     * creado por el equipo teens.
+    * Creamos proyectos muy interesantes
+    * tambien aprendes a trabajar en equipo
 
 + Desarrollo:
 
